@@ -1,4 +1,4 @@
-﻿public class School {public static void main(String[] args) {
+﻿ public static void main(String[] args) {
         int numStudents;
         int NumberOfTeachersInTheSchool;
         double average_gpa;
@@ -19,18 +19,17 @@
     name = Grady High School;
         isPublic = yes;
 
-        println("School: " + name);
-        println("Teachers: " numberOfTeachers);
+        Console.WriteLine("School: " + name);
+        Console.WriteLine("Teachers: " numberOfTeachers);
 
         function(averageGPA, city);int var = null;
 
         if (numStudents) {print "We have at least 10 students"}
         while (numTeach) {
-            System.out.println(We have at least 5 teachers);
+            Console.WriteLine(We have at least 5 teachers);
         }
     }
 
 public static function (double x, double y) {
-    System.out.println(x + ", ", + y.toString());
-}
+    Console.WriteLine(x + ", ", + y.toString());
 }
