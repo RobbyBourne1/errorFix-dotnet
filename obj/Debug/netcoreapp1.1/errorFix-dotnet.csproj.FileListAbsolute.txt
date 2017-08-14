@@ -2,3 +2,7 @@
 /Users/robbybourne/Documents/errorFix-dotnet/bin/Debug/netcoreapp1.1/errorFix-dotnet.runtimeconfig.json
 /Users/robbybourne/Documents/errorFix-dotnet/bin/Debug/netcoreapp1.1/errorFix-dotnet.runtimeconfig.dev.json
 /Users/robbybourne/Documents/errorFix-dotnet/obj/Debug/netcoreapp1.1/errorFix-dotnet.AssemblyInfo.cs
+/Users/robbybourne/Documents/errorFix-dotnet/bin/Debug/netcoreapp1.1/errorFix-dotnet.dll
+/Users/robbybourne/Documents/errorFix-dotnet/bin/Debug/netcoreapp1.1/errorFix-dotnet.pdb
+/Users/robbybourne/Documents/errorFix-dotnet/obj/Debug/netcoreapp1.1/errorFix-dotnet.dll
+/Users/robbybourne/Documents/errorFix-dotnet/obj/Debug/netcoreapp1.1/errorFix-dotnet.pdb
