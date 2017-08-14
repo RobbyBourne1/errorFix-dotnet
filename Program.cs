@@ -1,35 +1,43 @@
-﻿ public static void main(String[] args) {
+﻿using System;
+
+namespace errorFix
+{ 
+    class Program
+    {
+ 
+ public static void main(string[] args) {
         int numStudents;
         int NumberOfTeachersInTheSchool;
         double average_gpa;
 
+        string n;
+        string CityInWhichTheSchoolResides;
+        bool IS_PUBLIC;
 
-
-
-
-
-        String n;
-        String CityInWhichTheSchoolResides;
-        boolean IS_PUBLIC;
-
-        numStudents = "403";
-    city = Atlanta, GA;
-    numTeachers = "62";
-    averageGPA = 2.98
-    name = Grady High School;
-        isPublic = yes;
+        numStudents = 403;
+    var city = "Atlanta, GA";
+    var numTeachers = 62;
+    var averageGPA = 2.98;
+    var name = "Grady High School";
+    var isPublic = true;
 
         Console.WriteLine("School: " + name);
-        Console.WriteLine("Teachers: " numberOfTeachers);
+        Console.WriteLine("Teachers: ", numTeachers);
 
-        function(averageGPA, city);int var = null;
+        function(averageGPA, city);
 
-        if (numStudents) {print "We have at least 10 students"}
-        while (numTeach) {
-            Console.WriteLine(We have at least 5 teachers);
+        if (numStudents >= 10) 
+        {
+            Console.WriteLine("We have at least 10 students");
+        }
+        if (numTeachers >= 5) 
+        {
+            Console.WriteLine("We have at least 5 teachers");
         }
     }
 
-public static function (double x, double y) {
-    Console.WriteLine(x + ", ", + y.toString());
+public static void Main(double x, string y) {
+    Console.WriteLine(x + ", " + y);
+    }
+    } 
 }

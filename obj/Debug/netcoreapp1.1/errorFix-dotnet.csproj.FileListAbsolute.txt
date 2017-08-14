@@ -1,0 +1,4 @@
+/Users/robbybourne/Documents/errorFix-dotnet/bin/Debug/netcoreapp1.1/errorFix-dotnet.deps.json
+/Users/robbybourne/Documents/errorFix-dotnet/bin/Debug/netcoreapp1.1/errorFix-dotnet.runtimeconfig.json
+/Users/robbybourne/Documents/errorFix-dotnet/bin/Debug/netcoreapp1.1/errorFix-dotnet.runtimeconfig.dev.json
+/Users/robbybourne/Documents/errorFix-dotnet/obj/Debug/netcoreapp1.1/errorFix-dotnet.AssemblyInfo.cs
